@@ -43,7 +43,7 @@ This repository is intended as a **learning resource** for those who want to und
 
 ```bash
 git clone https://github.com/HuntDigit/OpenGLSandbox.git
-cd yourproject
+cd OpenGLSandbox
 ```
 
 ### 2. Build with CMake
@@ -80,5 +80,6 @@ Feel free to open a Pull Request or Issue to discuss improvements.
 ## 📜 License
 
 Open Project for everyone.
+
 
 
